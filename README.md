@@ -31,6 +31,8 @@ print(result_c)
 result_d = d("M IQBAL AL ANSHORI")
 print(*result_d," ")
 ```
+## Ini Adalah Hasil Outputnya :
+![gambar](Screenshot/Output2.png)
 # Praktikum
 ## Program Data Mahasiswa
 
