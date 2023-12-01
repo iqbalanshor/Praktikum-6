@@ -1,5 +1,6 @@
 # Praktikum 6
 # Latihan
+![gambar](Screenshot/ss2.png)
 ## Fungsi Lambda
 ```python
 a = lambda x: x**2
